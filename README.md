@@ -23,7 +23,7 @@ A suite of resources, code and links, from the App Development with Swift Teache
 * Authoring Swift Playground Books with the Author Template - (Coming soon)
 
 ---
-##Other Platforms and Applications
+## Other Platforms and Applications
 ### Swift Online
 * <http://online.swiftplayground.run> - The online Swift playground lets you and your students play around with Swift in a web browser on all manner of devices
 
