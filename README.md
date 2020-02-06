@@ -13,6 +13,7 @@ A suite of resources, code and links, from the App Development with Swift Teache
 * <https://www.challengebasedlearning.org> - Challenge Based Learning
 * <https://lor.instructure.com/resources/3ade24da49ff46c8abd2dfdc6d4c6395> - App Development with Swift | Canvas Commons
 * <https://developer.apple.com/support/membership-fee-waiver/> - Apple Developer Program Membership Fee Waivers - Support - Apple Developer
+* <https://certiport.pearsonvue.com/Apple/> - Certiport Certification, App Development with Swift Level 1 certification
 
 
 
