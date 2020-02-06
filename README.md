@@ -32,6 +32,7 @@ A suite of resources, code and links, from the App Development with Swift Teache
 * <https://thecodehub.ie/cesi/> - Presentation from CESICon 2018, "Using Swift Playgrounds for Creativity in Coding with the Code Hub"
 * Learning Variables iOS app - (link coming soon)
 * Authoring Swift Playground Books with the Author Template - (Coming soon)
+* <https://istitutosacrocuore.github.io> - Istituto Sacro Cuore (Naples)
 
 ---
 ## Other Platforms and Applications
