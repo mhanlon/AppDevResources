@@ -9,6 +9,13 @@ A suite of resources, code and links, from the App Development with Swift Teache
 * <https://developer.apple.com/design/human-interface-guidelines/> - Apple's Human Interface Guidelines
 * <https://www.apple.com/education/teaching-code/> - Apple's Teaching Code site
 
+### App Development with Swift Links
+* <https://www.challengebasedlearning.org> - Challenge Based Learning
+* <https://lor.instructure.com/resources/3ade24da49ff46c8abd2dfdc6d4c6395> - App Development with Swift | Canvas Commons
+* <https://developer.apple.com/support/membership-fee-waiver/> - Apple Developer Program Membership Fee Waivers - Support - Apple Developer
+
+
+
 ### Xcode Beginning Tutorials
 * <https://mhanlon.gitbooks.io/beginner-xcode/content/en/> - Beginner Xcode Sushi Card 
 * Xcode interface tour and tutorial - (Coming soon)
