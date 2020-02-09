@@ -45,4 +45,12 @@ A suite of resources, code and links, from the App Development with Swift Teache
 * <https://www.kitura.io> - Kitura ![Kitura](images/kitura.png "Kitura")
 
 
+---
+## Design Resources
+### Sketch or Photoshop to Storyboards
+This isn't my domain of expertise, but here are a few links to get you started, turning designs from Sketch or Photoshop, that might help you get from your visuals to working interfaces. 
+* <https://mondayhero.io> - Convert Sketch designs into Swift code
+* <http://www.replia.io> - Replia: Generate source code for iOS apps from design work
+* <https://www.youtube.com/watch?v=DYhPufgcqF4> - iOS Swift Tutorial: From Sketch Design to Real App
+
 ![Matt](images/matt.png "Matt")
