@@ -4,6 +4,9 @@ A suite of resources, code and links, from the App Development with Swift Teache
 
 ## Documentation
 
+###NEW!
+* <https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12> - Swift Playgrounds, on the Mac!
+
 ### Swift Documentation
 * <https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html> - Swift.org online documentation
 * <https://developer.apple.com/design/human-interface-guidelines/> - Apple's Human Interface Guidelines
