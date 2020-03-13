@@ -30,7 +30,8 @@ A suite of resources, code and links, from the App Development with Swift Teache
 ## Swift Playgrounds & iPad Resources
 * <https://thecodehub.ie/playgrounds/> - The Code Hub Playgrounds for teaching coding with Turtle Graphics and Text Adventures
 * <https://thecodehub.ie/cesi/> - Presentation from CESICon 2018, "Using Swift Playgrounds for Creativity in Coding with the Code Hub"
-* Learning Variables iOS app - (link coming soon)
+* Learning Variables iOS app - <https://apps.apple.com/us/app/learning-variables/id1385740899?ls=1>
+* Learning Variables macOS app - <https://apps.apple.com/us/app/learning-variables/id1502213479?mt=12> (built with Catalyst from the iOS code base!)
 * Authoring Swift Playground Books with the Author Template - (Coming soon)
 * <https://istitutosacrocuore.github.io> - Istituto Sacro Cuore (Naples)
 
