@@ -25,6 +25,9 @@ A suite of resources, code and links, from the App Development with Swift Teache
 * <https://developer.apple.com/augmented-reality/> - Apple's Augmented Reality documentaton
 * <http://github.com/codePrincess/ARStarter> - Code Princess's AR Starter Playground
 * <https://developer.apple.com/documentation/realitykit/creating_3d_content_with_reality_composer/selecting_an_anchor_for_a_reality_composer_scene> - Using RealityKit to find an anchor in a scene
+* <https://www.thecodehub.ie/news/coding-at-home/augmented-reality-getting-creative-with-ar/> - My video series going over Reality Composer (and RealityKit)
+* <https://github.com/mhanlon/LunarLander> - LunarLander, a project that builds an app that uses RealityKit
+
 
 ---
 ## Swift Playgrounds & iPad Resources
