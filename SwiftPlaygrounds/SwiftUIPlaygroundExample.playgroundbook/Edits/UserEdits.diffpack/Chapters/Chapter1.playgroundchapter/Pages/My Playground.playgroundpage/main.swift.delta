@@ -31,11 +31,12 @@ struct ContentView: View {
                 }, label: {
                     Text("Press")
                         .foregroundColor(.blue)
-                    .padding(10)
+                    .padding(12)
                 }
                 )
-                .background(Color(.orange))
-                .cornerRadius(4.0)
+                .background(Color(.yellow))
+                .border(Color.blue, width:4)
+                .cornerRadius(8.0)
             }
             .padding()
         }
@@ -45,7 +46,7 @@ struct ContentView: View {
 PlaygroundPage.current.setLiveView(ContentView())
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 1025}</string>
+			<string>{1, 1070}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
