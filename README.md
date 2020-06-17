@@ -19,7 +19,8 @@ A suite of resources, code and links, from the App Development with Swift Teache
 
 ### Xcode Beginning Tutorials
 * <https://mhanlon.gitbooks.io/beginner-xcode/content/en/> - Beginner Xcode Sushi Card 
-* Xcode interface tour and tutorial - (Coming soon)
+* <https://youtu.be/xSSZ-Ci7agM> - Xcode interface tour and tutorial from The Code Hub
+* <https://developer.apple.com/wwdc19/404> - WWDC2019 Getting Started with Xcode session
 
 ### Augmented Reality Resources
 * <https://developer.apple.com/augmented-reality/> - Apple's Augmented Reality documentaton
