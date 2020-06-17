@@ -18,7 +18,7 @@ A suite of resources, code and links, from the App Development with Swift Teache
 
 
 ### Xcode Beginning Tutorials
-* <https://mhanlon.gitbooks.io/beginner-xcode/content/en/> - Beginner Xcode Sushi Card 
+* <https://mhanlon.gitbook.io/beginning-xcode/> - Beginner Xcode Sushi Card 
 * <https://youtu.be/xSSZ-Ci7agM> - Xcode interface tour and tutorial from The Code Hub
 * <https://developer.apple.com/wwdc19/404> - WWDC2019 Getting Started with Xcode session
 
