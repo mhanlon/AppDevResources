@@ -22,6 +22,8 @@ A suite of resources, code and links, from the App Development with Swift Teache
 * <https://youtu.be/xSSZ-Ci7agM> - Xcode interface tour and tutorial from The Code Hub
 * <https://developer.apple.com/wwdc19/404> - WWDC2019 Getting Started with Xcode session
 
+* <https://developer.apple.com/videos/play/wwdc2015/407/> - WWDC2015 Implementing UI Designs in Interface Builder - an incredibly relevant and useful session highlighting the power and some amazing features of Interface Builder
+
 ### Augmented Reality Resources
 * <https://developer.apple.com/augmented-reality/> - Apple's Augmented Reality documentaton
 * <http://github.com/codePrincess/ARStarter> - Code Princess's AR Starter Playground
