@@ -47,7 +47,11 @@ A suite of resources, code and links, from the App Development with Swift Teache
 ---
 ## Other Platforms and Applications
 ### Swift Online
+* <https://repl.it/@mhanlon/DisloyalLateOutliner#main.swift> - Probably the best for straight Swift support, for its ability to wait for `readLine()` input
+* <https://pad.swiftwasm.org> - An online Swift Playground that compiles Swift down to web assembly... this is interesting for its web-based SwiftUI clone that lets you write rudimentary UI code in your browser.
 * <http://online.swiftplayground.run> - The online Swift playground lets you and your students play around with Swift in a web browser on all manner of devices
+* <https://www.weheartswift.com/swift-sandbox/> - Another online Swift Playground
+* <https://iswift.org/playground> - Another online Swift Playground
 
 ### Server-side Swift
 * <https://www.perfect.org> - Perfect ![Perfect](images/perfect.png "Perfect")
