@@ -50,3 +50,13 @@ print(complexEmoji.utf8.count)
 /// **Constants, Variables, & Data Types:**
 /// Our slide that introduces types shows a `struct` keyword. How is this different than C-structs?
 /// A C struct is a primitive type, whereas Swift Structures have a lot more functionality and are more like classes from comparable languages. Send your students to https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/ for a more in-depth look.
+
+
+/// **Guard**
+/// The question was "can we use guard statement outside of any function?"
+/// Uncomment the following code to try it out
+
+//guard let code = responseCode else {
+    // Must throw or return here... but we have no scope from which we can return...
+//}
+
